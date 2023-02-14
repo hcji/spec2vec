@@ -45,7 +45,7 @@ setup(
         "Programming Language :: Python :: 3.9",
     ],
     test_suite="tests",
-    python_requires='>=3.7',
+    python_requires='>=3.6',
     install_requires=[
         "gensim >=4.2.0",
         "matchms >=0.14.0",
